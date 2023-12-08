@@ -2,6 +2,13 @@
   "version": 3,
   "targets": {
     "net8.0-android34.0": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
       "GoogleGson/2.10.1.4": {
         "type": "package",
         "compile": {
@@ -14,6 +21,9 @@
             "related": ".aar;.xml"
           }
         }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
       },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
@@ -755,6 +765,9 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "Moment.js/2.9.0": {
+        "type": "package"
       },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
@@ -2577,6 +2590,13 @@
       }
     },
     "net8.0-android34.0/android-arm": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
       "GoogleGson/2.10.1.4": {
         "type": "package",
         "compile": {
@@ -2589,6 +2609,9 @@
             "related": ".aar;.xml"
           }
         }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
       },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
@@ -3330,6 +3353,9 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "Moment.js/2.9.0": {
+        "type": "package"
       },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
@@ -5146,6 +5172,13 @@
       }
     },
     "net8.0-android34.0/android-arm64": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
       "GoogleGson/2.10.1.4": {
         "type": "package",
         "compile": {
@@ -5158,6 +5191,9 @@
             "related": ".aar;.xml"
           }
         }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
       },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
@@ -5899,6 +5935,9 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "Moment.js/2.9.0": {
+        "type": "package"
       },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
@@ -7715,6 +7754,13 @@
       }
     },
     "net8.0-android34.0/android-x64": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
       "GoogleGson/2.10.1.4": {
         "type": "package",
         "compile": {
@@ -7727,6 +7773,9 @@
             "related": ".aar;.xml"
           }
         }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
       },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
@@ -8468,6 +8517,9 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "Moment.js/2.9.0": {
+        "type": "package"
       },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
@@ -10284,6 +10336,13 @@
       }
     },
     "net8.0-android34.0/android-x86": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
       "GoogleGson/2.10.1.4": {
         "type": "package",
         "compile": {
@@ -10296,6 +10355,9 @@
             "related": ".aar;.xml"
           }
         }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
       },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
@@ -11037,6 +11099,9 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "Moment.js/2.9.0": {
+        "type": "package"
       },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
@@ -12853,6 +12918,13 @@
       }
     },
     "net8.0-android34.0/iossimulator-x64": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
       "GoogleGson/2.10.1.4": {
         "type": "package",
         "compile": {
@@ -12865,6 +12937,9 @@
             "related": ".aar;.xml"
           }
         }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
       },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
@@ -13606,6 +13681,9 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "Moment.js/2.9.0": {
+        "type": "package"
       },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
@@ -15422,6 +15500,13 @@
       }
     },
     "net8.0-android34.0/maccatalyst-x64": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
       "GoogleGson/2.10.1.4": {
         "type": "package",
         "compile": {
@@ -15434,6 +15519,9 @@
             "related": ".aar;.xml"
           }
         }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
       },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
@@ -16175,6 +16263,9 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "Moment.js/2.9.0": {
+        "type": "package"
       },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
@@ -17991,6 +18082,13 @@
       }
     },
     "net8.0-android34.0/win10-x64": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
       "GoogleGson/2.10.1.4": {
         "type": "package",
         "compile": {
@@ -18003,6 +18101,9 @@
             "related": ".aar;.xml"
           }
         }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
       },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
@@ -18744,6 +18845,9 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "Moment.js/2.9.0": {
+        "type": "package"
       },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
@@ -20560,6 +20664,16 @@
       }
     },
     "net8.0-ios17.0": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -21289,6 +21403,9 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "Moment.js/2.9.0": {
+        "type": "package"
       },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
@@ -21349,6 +21466,16 @@
       }
     },
     "net8.0-ios17.0/android-arm": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -22078,6 +22205,9 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "Moment.js/2.9.0": {
+        "type": "package"
       },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
@@ -22132,6 +22262,16 @@
       }
     },
     "net8.0-ios17.0/android-arm64": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -22861,6 +23001,9 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "Moment.js/2.9.0": {
+        "type": "package"
       },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
@@ -22915,6 +23058,16 @@
       }
     },
     "net8.0-ios17.0/android-x64": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -23644,6 +23797,9 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "Moment.js/2.9.0": {
+        "type": "package"
       },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
@@ -23698,6 +23854,16 @@
       }
     },
     "net8.0-ios17.0/android-x86": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -24427,6 +24593,9 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "Moment.js/2.9.0": {
+        "type": "package"
       },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
@@ -24481,6 +24650,16 @@
       }
     },
     "net8.0-ios17.0/iossimulator-x64": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -25210,6 +25389,9 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "Moment.js/2.9.0": {
+        "type": "package"
       },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
@@ -25264,6 +25446,16 @@
       }
     },
     "net8.0-ios17.0/maccatalyst-x64": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -25993,6 +26185,9 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "Moment.js/2.9.0": {
+        "type": "package"
       },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
@@ -26047,6 +26242,16 @@
       }
     },
     "net8.0-ios17.0/win10-x64": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -26777,6 +26982,9 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
+      "Moment.js/2.9.0": {
+        "type": "package"
+      },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
         "compile": {
@@ -26830,6 +27038,16 @@
       }
     },
     "net8.0-maccatalyst17.0": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -27559,6 +27777,9 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "Moment.js/2.9.0": {
+        "type": "package"
       },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
@@ -27619,6 +27840,16 @@
       }
     },
     "net8.0-maccatalyst17.0/android-arm": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -28348,6 +28579,9 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "Moment.js/2.9.0": {
+        "type": "package"
       },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
@@ -28402,6 +28636,16 @@
       }
     },
     "net8.0-maccatalyst17.0/android-arm64": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -29131,6 +29375,9 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "Moment.js/2.9.0": {
+        "type": "package"
       },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
@@ -29185,6 +29432,16 @@
       }
     },
     "net8.0-maccatalyst17.0/android-x64": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -29914,6 +30171,9 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "Moment.js/2.9.0": {
+        "type": "package"
       },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
@@ -29968,6 +30228,16 @@
       }
     },
     "net8.0-maccatalyst17.0/android-x86": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -30697,6 +30967,9 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "Moment.js/2.9.0": {
+        "type": "package"
       },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
@@ -30751,6 +31024,16 @@
       }
     },
     "net8.0-maccatalyst17.0/iossimulator-x64": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -31480,6 +31763,9 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "Moment.js/2.9.0": {
+        "type": "package"
       },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
@@ -31534,6 +31820,16 @@
       }
     },
     "net8.0-maccatalyst17.0/maccatalyst-x64": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -32263,6 +32559,9 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "Moment.js/2.9.0": {
+        "type": "package"
       },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
@@ -32317,6 +32616,16 @@
       }
     },
     "net8.0-maccatalyst17.0/win10-x64": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -33047,6 +33356,9 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
+      "Moment.js/2.9.0": {
+        "type": "package"
+      },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
         "compile": {
@@ -33100,6 +33412,16 @@
       }
     },
     "net8.0-windows10.0.19041": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -33973,6 +34295,9 @@
           }
         }
       },
+      "Moment.js/2.9.0": {
+        "type": "package"
+      },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
         "compile": {
@@ -34032,6 +34357,16 @@
       }
     },
     "net8.0-windows10.0.19041/android-arm": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -34876,6 +35211,9 @@
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
+      },
+      "Moment.js/2.9.0": {
+        "type": "package"
       },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
@@ -34930,6 +35268,16 @@
       }
     },
     "net8.0-windows10.0.19041/android-arm64": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -35774,6 +36122,9 @@
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
+      },
+      "Moment.js/2.9.0": {
+        "type": "package"
       },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
@@ -35828,6 +36179,16 @@
       }
     },
     "net8.0-windows10.0.19041/android-x64": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -36672,6 +37033,9 @@
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
+      },
+      "Moment.js/2.9.0": {
+        "type": "package"
       },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
@@ -36726,6 +37090,16 @@
       }
     },
     "net8.0-windows10.0.19041/android-x86": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -37570,6 +37944,9 @@
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
+      },
+      "Moment.js/2.9.0": {
+        "type": "package"
       },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
@@ -37624,6 +38001,16 @@
       }
     },
     "net8.0-windows10.0.19041/iossimulator-x64": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -38468,6 +38855,9 @@
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
+      },
+      "Moment.js/2.9.0": {
+        "type": "package"
       },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
@@ -38522,6 +38912,16 @@
       }
     },
     "net8.0-windows10.0.19041/maccatalyst-x64": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -39367,6 +39767,9 @@
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
       },
+      "Moment.js/2.9.0": {
+        "type": "package"
+      },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
         "compile": {
@@ -39420,6 +39823,16 @@
       }
     },
     "net8.0-windows10.0.19041/win10-x64": {
+      "fullcalendar/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Moment.js": "2.9.0",
+          "jQuery": "2.0.0"
+        }
+      },
+      "jQuery/2.0.0": {
+        "type": "package"
+      },
       "Microsoft.AspNetCore.Authorization/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -40271,6 +40684,9 @@
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
       },
+      "Moment.js/2.9.0": {
+        "type": "package"
+      },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
         "compile": {
@@ -40325,6 +40741,97 @@
     }
   },
   "libraries": {
+    "fullcalendar/3.9.0": {
+      "sha512": "Lx1CYPPY8AGVtkDHKl+gjVjD2SKGBi3WC+gEU/qn848HRnO/po3KurcYoblr1Yyp6Iia8kXffYZy62adAHNj+A==",
+      "type": "package",
+      "path": "fullcalendar/3.9.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/Content/fullcalendar.css",
+        "content/Content/fullcalendar.min.css",
+        "content/Content/fullcalendar.print.css",
+        "content/Content/fullcalendar.print.min.css",
+        "content/Scripts/fullcalendar/fullcalendar.js",
+        "content/Scripts/fullcalendar/fullcalendar.min.js",
+        "content/Scripts/fullcalendar/gcal.js",
+        "content/Scripts/fullcalendar/gcal.min.js",
+        "content/Scripts/fullcalendar/locale-all.js",
+        "content/Scripts/fullcalendar/locale/af.js",
+        "content/Scripts/fullcalendar/locale/ar-dz.js",
+        "content/Scripts/fullcalendar/locale/ar-kw.js",
+        "content/Scripts/fullcalendar/locale/ar-ly.js",
+        "content/Scripts/fullcalendar/locale/ar-ma.js",
+        "content/Scripts/fullcalendar/locale/ar-sa.js",
+        "content/Scripts/fullcalendar/locale/ar-tn.js",
+        "content/Scripts/fullcalendar/locale/ar.js",
+        "content/Scripts/fullcalendar/locale/bg.js",
+        "content/Scripts/fullcalendar/locale/bs.js",
+        "content/Scripts/fullcalendar/locale/ca.js",
+        "content/Scripts/fullcalendar/locale/cs.js",
+        "content/Scripts/fullcalendar/locale/da.js",
+        "content/Scripts/fullcalendar/locale/de-at.js",
+        "content/Scripts/fullcalendar/locale/de-ch.js",
+        "content/Scripts/fullcalendar/locale/de.js",
+        "content/Scripts/fullcalendar/locale/el.js",
+        "content/Scripts/fullcalendar/locale/en-au.js",
+        "content/Scripts/fullcalendar/locale/en-ca.js",
+        "content/Scripts/fullcalendar/locale/en-gb.js",
+        "content/Scripts/fullcalendar/locale/en-ie.js",
+        "content/Scripts/fullcalendar/locale/en-nz.js",
+        "content/Scripts/fullcalendar/locale/es-do.js",
+        "content/Scripts/fullcalendar/locale/es-us.js",
+        "content/Scripts/fullcalendar/locale/es.js",
+        "content/Scripts/fullcalendar/locale/et.js",
+        "content/Scripts/fullcalendar/locale/eu.js",
+        "content/Scripts/fullcalendar/locale/fa.js",
+        "content/Scripts/fullcalendar/locale/fi.js",
+        "content/Scripts/fullcalendar/locale/fr-ca.js",
+        "content/Scripts/fullcalendar/locale/fr-ch.js",
+        "content/Scripts/fullcalendar/locale/fr.js",
+        "content/Scripts/fullcalendar/locale/gl.js",
+        "content/Scripts/fullcalendar/locale/he.js",
+        "content/Scripts/fullcalendar/locale/hi.js",
+        "content/Scripts/fullcalendar/locale/hr.js",
+        "content/Scripts/fullcalendar/locale/hu.js",
+        "content/Scripts/fullcalendar/locale/id.js",
+        "content/Scripts/fullcalendar/locale/is.js",
+        "content/Scripts/fullcalendar/locale/it.js",
+        "content/Scripts/fullcalendar/locale/ja.js",
+        "content/Scripts/fullcalendar/locale/ka.js",
+        "content/Scripts/fullcalendar/locale/kk.js",
+        "content/Scripts/fullcalendar/locale/ko.js",
+        "content/Scripts/fullcalendar/locale/lb.js",
+        "content/Scripts/fullcalendar/locale/lt.js",
+        "content/Scripts/fullcalendar/locale/lv.js",
+        "content/Scripts/fullcalendar/locale/mk.js",
+        "content/Scripts/fullcalendar/locale/ms-my.js",
+        "content/Scripts/fullcalendar/locale/ms.js",
+        "content/Scripts/fullcalendar/locale/nb.js",
+        "content/Scripts/fullcalendar/locale/nl-be.js",
+        "content/Scripts/fullcalendar/locale/nl.js",
+        "content/Scripts/fullcalendar/locale/nn.js",
+        "content/Scripts/fullcalendar/locale/pl.js",
+        "content/Scripts/fullcalendar/locale/pt-br.js",
+        "content/Scripts/fullcalendar/locale/pt.js",
+        "content/Scripts/fullcalendar/locale/ro.js",
+        "content/Scripts/fullcalendar/locale/ru.js",
+        "content/Scripts/fullcalendar/locale/sk.js",
+        "content/Scripts/fullcalendar/locale/sl.js",
+        "content/Scripts/fullcalendar/locale/sq.js",
+        "content/Scripts/fullcalendar/locale/sr-cyrl.js",
+        "content/Scripts/fullcalendar/locale/sr.js",
+        "content/Scripts/fullcalendar/locale/sv.js",
+        "content/Scripts/fullcalendar/locale/th.js",
+        "content/Scripts/fullcalendar/locale/tr.js",
+        "content/Scripts/fullcalendar/locale/uk.js",
+        "content/Scripts/fullcalendar/locale/vi.js",
+        "content/Scripts/fullcalendar/locale/zh-cn.js",
+        "content/Scripts/fullcalendar/locale/zh-tw.js",
+        "fullcalendar.3.9.0.nupkg.sha512",
+        "fullcalendar.nuspec"
+      ]
+    },
     "GoogleGson/2.10.1.4": {
       "sha512": "L1vdbwbQzvKUoUGiMpMoJG5fqfLXaP6zMy1a26AYJQJSQKUO7Ojr2U5BAmgQoRxQ8J2GDjBfnfgnrsnorb4y5Q==",
       "type": "package",
@@ -40341,6 +40848,26 @@
         "lib/net6.0-android31.0/GoogleGson.aar",
         "lib/net6.0-android31.0/GoogleGson.dll",
         "lib/net6.0-android31.0/GoogleGson.xml"
+      ]
+    },
+    "jQuery/2.0.0": {
+      "sha512": "u3YiE0QnFnBExPkBPqWr2EVd8nh01iQlMWPRfa7b1fQ53YuMtHw+Y9oaJukHtEHaMpyL0PJzq69y3/5AxWogGA==",
+      "type": "package",
+      "path": "jquery/2.0.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Content/Scripts/jquery-2.0.0-vsdoc.js",
+        "Content/Scripts/jquery-2.0.0.js",
+        "Content/Scripts/jquery-2.0.0.min.js",
+        "Content/Scripts/jquery-2.0.0.min.map",
+        "Tools/common.ps1",
+        "Tools/install.ps1",
+        "Tools/jquery-2.0.0.intellisense.js",
+        "Tools/uninstall.ps1",
+        "jquery.2.0.0.nupkg.sha512",
+        "jquery.nuspec"
       ]
     },
     "Microsoft.AspNetCore.Authorization/8.0.0": {
@@ -42853,6 +43380,21 @@
         "tools/x86/GenXbf.dll"
       ]
     },
+    "Moment.js/2.9.0": {
+      "sha512": "4rhbvFzmgXp/gjvwjxt9Qjmdz+2CD9T99erXEDtZHlYxaI06F9A4628/Vpxklm8D9RmwJjKjp1244FwEh+a5WQ==",
+      "type": "package",
+      "path": "moment.js/2.9.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Content/Scripts/moment-with-locales.js",
+        "Content/Scripts/moment-with-locales.min.js",
+        "Content/Scripts/moment.js",
+        "Content/Scripts/moment.min.js",
+        "moment.js.2.9.0.nupkg.sha512",
+        "moment.js.nuspec"
+      ]
+    },
     "System.IO.Pipelines/8.0.0": {
       "sha512": "FHNOatmUq0sqJOkTx+UF/9YK1f180cnW5FVqnQMvYUN0elp6wFzbtPSiqbo1/ru8ICp43JM1i7kKkk6GsNGHlA==",
       "type": "package",
@@ -45034,27 +45576,31 @@
       "Microsoft.Extensions.Logging.Debug >= 8.0.0",
       "Microsoft.Maui.Controls >= 8.0.3",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.3",
-      "Microsoft.NET.ILLink.Tasks >= 8.0.0"
+      "Microsoft.NET.ILLink.Tasks >= 8.0.0",
+      "fullcalendar >= 3.9.0"
     ],
     "net8.0-ios17.0": [
       "Microsoft.AspNetCore.Components.WebView.Maui >= 8.0.3",
       "Microsoft.Extensions.Logging.Debug >= 8.0.0",
       "Microsoft.Maui.Controls >= 8.0.3",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.3",
-      "Microsoft.NET.ILLink.Tasks >= 8.0.0"
+      "Microsoft.NET.ILLink.Tasks >= 8.0.0",
+      "fullcalendar >= 3.9.0"
     ],
     "net8.0-maccatalyst17.0": [
       "Microsoft.AspNetCore.Components.WebView.Maui >= 8.0.3",
       "Microsoft.Extensions.Logging.Debug >= 8.0.0",
       "Microsoft.Maui.Controls >= 8.0.3",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.3",
-      "Microsoft.NET.ILLink.Tasks >= 8.0.0"
+      "Microsoft.NET.ILLink.Tasks >= 8.0.0",
+      "fullcalendar >= 3.9.0"
     ],
     "net8.0-windows10.0.19041": [
       "Microsoft.AspNetCore.Components.WebView.Maui >= 8.0.3",
       "Microsoft.Extensions.Logging.Debug >= 8.0.0",
       "Microsoft.Maui.Controls >= 8.0.3",
-      "Microsoft.Maui.Controls.Compatibility >= 8.0.3"
+      "Microsoft.Maui.Controls.Compatibility >= 8.0.3",
+      "fullcalendar >= 3.9.0"
     ]
   },
   "packageFolders": {
@@ -45064,11 +45610,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype\\Prototype.csproj",
+      "projectUniqueName": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype_InputFlights\\Prototype\\Prototype.csproj",
       "projectName": "Prototype",
-      "projectPath": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype\\Prototype.csproj",
+      "projectPath": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype_InputFlights\\Prototype\\Prototype.csproj",
       "packagesPath": "C:\\Users\\soria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype\\obj\\",
+      "outputPath": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype_InputFlights\\Prototype\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
@@ -45139,6 +45685,10 @@
             "target": "Package",
             "version": "[8.0.0, )",
             "autoReferenced": true
+          },
+          "fullcalendar": {
+            "target": "Package",
+            "version": "[3.9.0, )"
           }
         },
         "imports": [
@@ -45186,6 +45736,10 @@
             "target": "Package",
             "version": "[8.0.0, )",
             "autoReferenced": true
+          },
+          "fullcalendar": {
+            "target": "Package",
+            "version": "[3.9.0, )"
           }
         },
         "imports": [
@@ -45233,6 +45787,10 @@
             "target": "Package",
             "version": "[8.0.0, )",
             "autoReferenced": true
+          },
+          "fullcalendar": {
+            "target": "Package",
+            "version": "[3.9.0, )"
           }
         },
         "imports": [
@@ -45275,6 +45833,10 @@
           "Microsoft.Maui.Controls.Compatibility": {
             "target": "Package",
             "version": "[8.0.3, )"
+          },
+          "fullcalendar": {
+            "target": "Package",
+            "version": "[3.9.0, )"
           }
         },
         "imports": [

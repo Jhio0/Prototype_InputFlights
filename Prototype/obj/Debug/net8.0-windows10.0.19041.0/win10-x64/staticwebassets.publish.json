@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Pa1uTXKwB9gb4ah6WPsF9MGP/yxrLl089dSQkzxLStw=",
+  "Hash": "QwLYr7YOYg8r8cXAFEHOoq5Kw9/HEj0lcXgvJ+XUp4s=",
   "Source": "Prototype",
   "BasePath": "/",
   "Mode": "Root",
@@ -10,17 +10,17 @@
     {
       "Name": "Prototype\\wwwroot",
       "Source": "Prototype",
-      "ContentRoot": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype_InputFlights\\Prototype\\wwwroot\\",
       "BasePath": "/",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Prototype.styles.css",
+      "Identity": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype_InputFlights\\Prototype\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Prototype.styles.css",
       "SourceId": "Prototype",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype_InputFlights\\Prototype\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\",
       "BasePath": "/",
       "RelativePath": "Prototype.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Prototype.styles.css"
+      "OriginalItemSpec": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype_InputFlights\\Prototype\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Prototype.styles.css"
     },
     {
-      "Identity": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\Prototype.bundle.scp.css",
+      "Identity": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype_InputFlights\\Prototype\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\Prototype.bundle.scp.css",
       "SourceId": "Prototype",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype_InputFlights\\Prototype\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\",
       "BasePath": "/",
       "RelativePath": "Prototype.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\Prototype.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype_InputFlights\\Prototype\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\Prototype.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype\\wwwroot\\css\\app.css",
+      "Identity": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype_InputFlights\\Prototype\\wwwroot\\css\\app.css",
       "SourceId": "Prototype",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype_InputFlights\\Prototype\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\app.css"
     },
     {
-      "Identity": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype_InputFlights\\Prototype\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "Prototype",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype_InputFlights\\Prototype\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype_InputFlights\\Prototype\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Prototype",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype_InputFlights\\Prototype\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype_InputFlights\\Prototype\\wwwroot\\favicon.png",
       "SourceId": "Prototype",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype_InputFlights\\Prototype\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype_InputFlights\\Prototype\\wwwroot\\index.html",
       "SourceId": "Prototype",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype_InputFlights\\Prototype\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "index.html",
       "AssetKind": "All",

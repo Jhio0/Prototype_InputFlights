@@ -1,27 +1,27 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\Prototype.styles.css",
+      "Id": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype_InputFlights\\Prototype\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\Prototype.styles.css",
       "PackagePath": "staticwebassets\\Prototype.styles.css"
     },
     {
-      "Id": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype_InputFlights\\Prototype\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype_InputFlights\\Prototype\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype_InputFlights\\Prototype\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype_InputFlights\\Prototype\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype\\wwwroot\\index.html",
+      "Id": "C:\\Users\\soria\\OneDrive\\Documents\\Prototype\\Prototype_InputFlights\\Prototype\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
